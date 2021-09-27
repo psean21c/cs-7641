@@ -11,3 +11,5 @@ scikit-optimize == 0.5.2
 2. Each dataset has its dedicated notebook - Rice and Breast Cancer.
 3. Both csv files are stored in the 'data' folder.
 4. Once jupyter notebook is open, you should be able to run each cell directly.
+
+Code uploaded to: https://github.com/soovadeep/cs-7641/tree/master/HW1
